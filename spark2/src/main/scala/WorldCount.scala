@@ -8,6 +8,6 @@ object WorldCount {
     val counts = rdd.flatMap(line=>line.split(" ")).map(x=>(x,1)).reduceByKey((x,y)=>(x+y))
     counts.foreach(println)
     sc.stop()
-
+// tainajia
   }
 }
