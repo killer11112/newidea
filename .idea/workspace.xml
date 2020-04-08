@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a87fa4a0-5efd-400d-8e89-8a4ba0c3f3cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/spark_lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scala1pro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark2/src/main/scala/WorldCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark2/src/main/scala/WorldCount.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\scala1pro\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\LocalWarHouse" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WcDEeeKHPWDzdnAvwwKTNowX0g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\scala1pro\spark2\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SparkPageRank">
+    <configuration name="SparkPageRank" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkPageRank" />
+      <module name="scala1pro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkPi" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkPi" />
+      <module name="scala1pro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorldCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="WorldCount" />
+      <module name="scala1pro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SparkPageRank" />
+        <item itemvalue="Application.SparkPi" />
+        <item itemvalue="Application.WorldCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a87fa4a0-5efd-400d-8e89-8a4ba0c3f3cc" name="Default Changelist" comment="" />
+      <created>1579439878945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579439878945</updated>
+      <workItem from="1579439882950" duration="3931000" />
+      <workItem from="1586364393158" duration="68000" />
+      <workItem from="1586369697036" duration="957000" />
+    </task>
+    <task id="LOCAL-00001" summary="one push">
+      <created>1586369893137</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586369893137</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tow push">
+      <created>1586370511587</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586370511587</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="one push" />
+    <MESSAGE value="tow push" />
+    <option name="LAST_COMMIT_MESSAGE" value="tow push" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="198" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1579443718439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="427" y="198" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1579443718439" />
+    <state x="232" y="0" key="CommitChangelistDialog2" timestamp="1586370670827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="232" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586370670827" />
+    <state x="357" y="104" key="FileChooserDialogImpl" timestamp="1586369749263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="357" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586369749263" />
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1579444236147">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579444236147" />
+    <state width="1286" height="156" key="GridCell.Tab.0.center" timestamp="1579444236146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579444236146" />
+    <state width="1286" height="156" key="GridCell.Tab.0.left" timestamp="1579444236146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579444236146" />
+    <state width="1286" height="156" key="GridCell.Tab.0.right" timestamp="1579444236146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579444236146" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1579441318168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579441318168" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1586370700901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586370700901" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1579439882916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579439882916" />
+    <state x="54" y="87" key="new project wizard" timestamp="1579440405895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="54" y="87" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579440405895" />
+  </component>
+</project>
